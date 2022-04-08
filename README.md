@@ -13,3 +13,5 @@
 
 ## dejamos una reflexión 🤪
 ![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+
+Diego Martucho.
